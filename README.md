@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1kkmI7dUK-08nIxRjQriv3vy3fqxgba6U?usp=sha
 
 # Screenshot : 
 
-![](GameCollage.png)
+![](Collage.png)
 
 # Aim
 Aim behind this project was to build a working Space Invaders game. This project is made entirely to test the knowledge behind C# scripting.
